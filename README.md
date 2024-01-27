@@ -1,4 +1,4 @@
-#Boston House Price Prediction
+Boston House Price Prediction
 
 This Machine learning Project aims to predict the price of houses in Boston, US
 
