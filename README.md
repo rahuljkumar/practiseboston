@@ -1,11 +1,5 @@
-# practiseboston
+#Boston House Price Prediction
 
-1. Github account (www.github.com)
-2. Spyder IDE
-3. Heroku account
-4. Git CLI
-5. create new env (first use cd"path from file xplorer" and open 
-the folder where u want to create ur virtual env)
-'''
-conda create -p venv python==3.9 -y
-'''
+This Machine learning Project aims to predict the price of houses in Boston, US
+
+The model has been deploy in AWS EC2 and can be used through the URL: http://ec2-51-20-18-199.eu-north-1.compute.amazonaws.com:8080/
